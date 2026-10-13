@@ -1,7 +1,10 @@
 # Jogo da Forca
 
+Integrantes:
+- Vitor dos Santos Correia
+
 Avaliação 1 - Jogo da Forca
-Curso: TSC | Bloco: 5 | Integrante: Vitor dos Santos Correia
+Curso: TSC | Bloco: 5
 
 ## Breve descrição
 
